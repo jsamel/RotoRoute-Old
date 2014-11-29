@@ -16,7 +16,7 @@ import android.widget.Button;
 
 public class SelectDestActivity extends Activity {
     private static final String[] BUILDINGS = new String[] {
-            "CSIC", "Hornbake", "Stamp Student Union", "AVW", "EGR"
+            "CSIC", "Hornbake Library", "Stamp Student Union", "AVW", "EGR"
     };
 
     @Override
