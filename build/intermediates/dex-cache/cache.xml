@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/joelsamelson/Desktop/Coding Projects/CMSC434 Android Workspace/RotoRoute/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-b7bc7c09a95a57815259c16d4a8c088d42065c46.jar"
+        jar="/Users/joelsamelson/Desktop/Coding Projects/CMSC434 Android Workspace/RotoRoute/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/joelsamelson/Desktop/Coding Projects/CMSC434 Android Workspace/RotoRoute/app/build/intermediates/pre-dexed/debug/classes-139eb40ce2c6138675d385758752b5433f1c41ac.jar"
+        jar="/Users/joelsamelson/Desktop/Coding Projects/CMSC434 Android Workspace/RotoRoute/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.3.3/classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="930e8ad21abe9439e61d5f4da51cf01d01f18f4d"/>
+    <item
+        dex="/Users/joelsamelson/Desktop/Coding Projects/CMSC434 Android Workspace/RotoRoute/app/build/intermediates/pre-dexed/debug/classes-0ed7b0580307ce420b4d8b06f886ee871d835ca2.jar"
+        jar="/Users/joelsamelson/Desktop/Coding Projects/CMSC434 Android Workspace/RotoRoute/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.71/classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da"/>
+    <item
+        dex="/Users/joelsamelson/Desktop/Coding Projects/CMSC434 Android Workspace/RotoRoute/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-bca9cd8c8082330ef7549e0398af852faae531fd.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/joelsamelson/Desktop/Coding Projects/CMSC434 Android Workspace/RotoRoute/app/build/intermediates/pre-dexed/debug/classes-eb8ebd89805b141e6a4a69a378f6eb971ed290d1.jar"
+        jar="/Users/joelsamelson/Desktop/Coding Projects/CMSC434 Android Workspace/RotoRoute/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+
+</pre-dex-items>
